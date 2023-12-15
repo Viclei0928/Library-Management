@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DemoMauiBookDatabase</name>
+    </assembly>
+    <members>
+        <member name="T:DemoMauiBookDatabase.ViewModels.AddBookBaseViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.AddBookBaseViewModel.Title">
+            <inheritdoc cref="F:DemoMauiBookDatabase.ViewModels.AddBookBaseViewModel._title"/>
+        </member>
+        <member name="T:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.AddBookModel">
+            <inheritdoc cref="F:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel._addBookModel"/>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.ShowErrors">
+            <inheritdoc cref="F:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel._showErrors"/>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.ImageSourceFile">
+            <inheritdoc cref="F:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel._imageSourceFile"/>
+        </member>
+        <member name="F:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.selectImageCommand">
+            <summary>The backing field for <see cref="P:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.SelectImageCommand"/>.</summary>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.SelectImageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.SelectImage"/>.</summary>
+        </member>
+        <member name="F:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.saveDataCommand">
+            <summary>The backing field for <see cref="P:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.SaveDataCommand"/>.</summary>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.SaveDataCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.SaveData"/>.</summary>
+        </member>
+        <member name="F:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.navigateToHomeCommand">
+            <summary>The backing field for <see cref="P:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.NavigateToHomeCommand"/>.</summary>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.NavigateToHomeCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:DemoMauiBookDatabase.ViewModels.AddOrUpdateBookPageViewmodel.NavigateToHome"/>.</summary>
+        </member>
+        <member name="T:DemoMauiBookDatabase.ViewModels.BookDetailsPageViewmodel">
+            <inheritdoc/>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.BookDetailsPageViewmodel.BookModel">
+            <inheritdoc cref="F:DemoMauiBookDatabase.ViewModels.BookDetailsPageViewmodel._bookModel"/>
+        </member>
+        <member name="T:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.GridVisibility">
+            <inheritdoc cref="F:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel._gridVisibility"/>
+        </member>
+        <member name="F:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.loadBookFromDatabaseCommand">
+            <summary>The backing field for <see cref="P:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.LoadBookFromDatabaseCommand"/>.</summary>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.LoadBookFromDatabaseCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.LoadBookFromDatabase"/>.</summary>
+        </member>
+        <member name="F:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.navigateToAddBookPageCommand">
+            <summary>The backing field for <see cref="P:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.NavigateToAddBookPageCommand"/>.</summary>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.NavigateToAddBookPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.NavigateToAddBookPage"/>.</summary>
+        </member>
+        <member name="F:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.navigateToDetailsCommand">
+            <summary>The backing field for <see cref="P:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.NavigateToDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.NavigateToDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.NavigateToDetails(DemoMauiBookDatabase.Models.Book)"/>.</summary>
+        </member>
+        <member name="F:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.deleteBookDataCommand">
+            <summary>The backing field for <see cref="P:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.DeleteBookDataCommand"/>.</summary>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.DeleteBookDataCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.DeleteBookData(DemoMauiBookDatabase.Models.Book)"/>.</summary>
+        </member>
+        <member name="F:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.updateBookDataCommand">
+            <summary>The backing field for <see cref="P:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.UpdateBookDataCommand"/>.</summary>
+        </member>
+        <member name="P:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.UpdateBookDataCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:DemoMauiBookDatabase.ViewModels.BooklistHomePageViewmodel.UpdateBookData(DemoMauiBookDatabase.Models.Book)"/>.</summary>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Button.TextColorTo(Microsoft.Maui.Controls.Button,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_DatePicker.TextColorTo(Microsoft.Maui.Controls.DatePicker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Editor.TextColorTo(Microsoft.Maui.Controls.Editor,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Entry.TextColorTo(Microsoft.Maui.Controls.Entry,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Label.TextColorTo(Microsoft.Maui.Controls.Label,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Picker.TextColorTo(Microsoft.Maui.Controls.Picker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_RadioButton.TextColorTo(Microsoft.Maui.Controls.RadioButton,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_SearchBar.TextColorTo(Microsoft.Maui.Controls.SearchBar,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_TimePicker.TextColorTo(Microsoft.Maui.Controls.TimePicker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Title">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Title" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.AddBookModel">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "AddBookModel" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ShowErrors">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ShowErrors" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ImageSourceFile">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ImageSourceFile" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.BookModel">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "BookModel" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.GridVisibility">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "GridVisibility" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Title">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Title" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.AddBookModel">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "AddBookModel" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ShowErrors">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ShowErrors" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ImageSourceFile">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ImageSourceFile" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.BookModel">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "BookModel" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.GridVisibility">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "GridVisibility" generated properties.</summary>
+        </member>
+    </members>
+</doc>
