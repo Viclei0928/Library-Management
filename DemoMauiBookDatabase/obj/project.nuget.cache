@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cuXDjdxobiEecTyNmqtM9M3M7M/9tWEjqzgUBBvNTzriIpAl+p+LJQzG9fdVsBFh4AHytG0U4sEm80MLZo5tEA==",
+  "dgSpecHash": "Qkk/HQ1JuFmNdLOaNJRUqa0vCSS+CGAL78YX1d2tY9zqnZDdlk/9HMxjSBGxQnzpLlDT5oCJ5Hf18gIAH9rfRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Revta\\Downloads\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase\\DemoMauiBookDatabase.csproj",
+  "projectFilePath": "C:\\Users\\Revta\\Downloads\\Library Management\\DemoMauiBookDatabase\\DemoMauiBookDatabase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Revta\\.nuget\\packages\\communitytoolkit.maui\\5.3.0\\communitytoolkit.maui.5.3.0.nupkg.sha512",
     "C:\\Users\\Revta\\.nuget\\packages\\communitytoolkit.maui.core\\5.3.0\\communitytoolkit.maui.core.5.3.0.nupkg.sha512",

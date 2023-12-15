@@ -50,11 +50,9 @@ namespace DemoMauiBookDatabase.ViewModels
                 stream.CopyTo(memory);
                 imageByte = memory.ToArray();
             }
-            //converting to base64string
             var convertedImage = Convert.ToBase64String(imageByte);
             AddBookModel.Image = convertedImage;
 
-            // convert from base to image
             GetImage(convertedImage);
             
 
@@ -62,11 +60,9 @@ namespace DemoMauiBookDatabase.ViewModels
 
         private void GetImage(string base64)
         {
-            //converting from base64string to image
             var imgFromBase64 = Convert.FromBase64String(base64);
             MemoryStream memoryStream = new(imgFromBase64);
             ImageSourceFile = ImageSource.FromStream(() => memoryStream);
-            // return ImageSourceFile;
         }
 
         [RelayCommand]
@@ -94,7 +90,6 @@ namespace DemoMauiBookDatabase.ViewModels
             return;
         }
 
-        // Validate book model
         private bool ValidateModel(Book validateBook)
         {
             if (validateBook.Title is null)

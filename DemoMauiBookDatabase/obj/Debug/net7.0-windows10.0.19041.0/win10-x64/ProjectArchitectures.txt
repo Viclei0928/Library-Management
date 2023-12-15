@@ -1,1 +1,1 @@
-C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\DemoMauiBookDatabase.csproj;x64
+C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\DemoMauiBookDatabase.csproj;x64

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Revta\\Downloads\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase\\DemoMauiBookDatabase.csproj": {}
+    "C:\\Users\\Revta\\Downloads\\Library Management\\DemoMauiBookDatabase\\DemoMauiBookDatabase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Revta\\Downloads\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase\\DemoMauiBookDatabase.csproj": {
+    "C:\\Users\\Revta\\Downloads\\Library Management\\DemoMauiBookDatabase\\DemoMauiBookDatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Revta\\Downloads\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase\\DemoMauiBookDatabase.csproj",
+        "projectUniqueName": "C:\\Users\\Revta\\Downloads\\Library Management\\DemoMauiBookDatabase\\DemoMauiBookDatabase.csproj",
         "projectName": "DemoMauiBookDatabase",
-        "projectPath": "C:\\Users\\Revta\\Downloads\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase\\DemoMauiBookDatabase.csproj",
+        "projectPath": "C:\\Users\\Revta\\Downloads\\Library Management\\DemoMauiBookDatabase\\DemoMauiBookDatabase.csproj",
         "packagesPath": "C:\\Users\\Revta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Revta\\Downloads\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase-master\\DemoMauiBookDatabase\\obj\\",
+        "outputPath": "C:\\Users\\Revta\\Downloads\\Library Management\\DemoMauiBookDatabase\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

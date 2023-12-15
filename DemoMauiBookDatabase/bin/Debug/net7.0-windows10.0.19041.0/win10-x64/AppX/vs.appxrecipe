@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>577607a0-c887-4f35-9e4d-fb72d7d75e70</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>98631E57F1371654A485D6A5237064562E43EDD4B824A7A306148EE0884C810C</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>577607a0-c887-4f35-9e4d-fb72d7d75e70_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>577607a0-c887-4f35-9e4d-fb72d7d75e70_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-15T11:50:27.418</Modified>
+      <Modified>2023-12-15T21:33:44.999</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-15T11:50:27.057</Modified>
+      <Modified>2023-12-15T21:33:44.729</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMauiBookDatabase.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMauiBookDatabase.runtimeconfig.json">
       <PackagePath>DemoMauiBookDatabase.runtimeconfig.json</PackagePath>
-      <Modified>2023-12-15T05:28:09.697</Modified>
+      <Modified>2023-12-15T21:28:14.150</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMauiBookDatabase.dll">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMauiBookDatabase.dll">
       <PackagePath>DemoMauiBookDatabase.dll</PackagePath>
-      <Modified>2023-12-15T11:50:25.137</Modified>
+      <Modified>2023-12-15T21:33:43.228</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DemoMauiBookDatabase.exe</PackagePath>
-      <Modified>2023-12-15T11:50:25.190</Modified>
+      <Modified>2023-12-15T21:33:43.235</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMauiBookDatabase.deps.json">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DemoMauiBookDatabase.deps.json">
       <PackagePath>DemoMauiBookDatabase.deps.json</PackagePath>
-      <Modified>2023-12-15T11:50:26.810</Modified>
+      <Modified>2023-12-15T21:33:44.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Revta\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.14\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -989,239 +989,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-11-02T20:30:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-12-15T05:26:41.085</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-12-15T05:27:42.392</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-12-15T05:27:42.411</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-12-15T05:27:42.437</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-12-15T05:27:42.475</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-12-15T05:27:42.625</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-12-15T05:26:40.897</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-12-15T05:26:40.963</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-12-15T05:27:42.692</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-12-15T05:27:43.018</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-12-15T05:27:43.033</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-12-15T05:27:43.046</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-12-15T05:27:43.066</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-12-15T05:27:43.142</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-12-15T05:27:42.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-12-15T05:27:42.801</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-12-15T05:27:42.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-12-15T05:27:42.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-12-15T05:27:42.810</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-12-15T05:27:42.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-12-15T05:27:42.773</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-12-15T05:27:42.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-12-15T05:27:42.777</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-12-15T05:27:42.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-12-15T05:27:42.713</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-12-15T05:27:42.719</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-12-15T05:27:42.724</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-12-15T05:27:42.730</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-12-15T05:27:42.736</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-12-15T05:27:42.742</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-12-15T05:27:42.747</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-12-15T05:27:42.763</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-12-15T05:27:42.750</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-12-15T05:27:42.754</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-12-15T05:27:42.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-12-15T05:27:42.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-12-15T05:27:42.898</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-12-15T05:27:42.910</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-12-15T05:27:42.930</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-12-15T05:27:42.850</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-12-15T05:27:42.856</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-12-15T05:27:42.862</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-12-15T05:27:42.867</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-12-15T05:27:42.878</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-12-15T05:27:42.824</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-12-15T05:27:42.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-12-15T05:27:42.834</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-12-15T05:27:42.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-12-15T05:27:42.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-12-15T05:27:42.937</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-12-15T05:27:42.945</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-12-15T05:27:42.957</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-12-15T05:27:42.973</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-12-15T05:27:43.008</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-12-15T05:27:42.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-12-15T05:27:42.781</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-12-15T05:27:42.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-12-15T05:27:42.825</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Revta\Downloads\DemoMauiBookDatabase-master\DemoMauiBookDatabase-master\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Revta\Downloads\Library Management\DemoMauiBookDatabase\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-12-15T05:27:42.884</Modified>
     </AppxPackagedFile>

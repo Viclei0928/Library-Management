@@ -51,7 +51,6 @@ namespace DemoMauiBookDatabase.ViewModels
 
             if (bookModel is null) return;
 
-            //get full description
             var desc = await bookService.GetBookAsync(bookModel.Id);
             var navigationParameter = new Dictionary<string, object>();
             navigationParameter.Add("ViewBookDetails", desc);
@@ -76,7 +75,6 @@ namespace DemoMauiBookDatabase.ViewModels
             bool answer = await Shell.Current.DisplayAlert("Confirm Update?", $"Are you sure you wanna update: {bookToBeUpdated.Title} ?", "Yes", "No");
             if (answer)
             {
-                //get full description
                 var desc = await bookService.GetBookAsync(bookToBeUpdated.Id);
                 var navigationParameter = new Dictionary<string, object>();
                 navigationParameter.Add("UpdateBookData", desc);
